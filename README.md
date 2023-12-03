@@ -1,4 +1,4 @@
-## Notes
+## notes
 
 - Flutter 
 	- [ ] chapter 1
@@ -11,8 +11,8 @@
 	- [x] chapter 1
 	- [ ] chapter 2 
 
-## PDF page break
+## page break
 
 ```html
-<div style="page-break-after: always"><br></div>
+<div style="page-break-before: always">S62079</div>
 ```
