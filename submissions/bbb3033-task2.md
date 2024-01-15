@@ -1,0 +1,5 @@
+# PROPOSAL: TIME WELL SPENT
+
+BY: GARY LIM S62079
+
+The effects of abuse and neglect can be impactful on a child in the long term. The negative effects are not just physical harm caused by abuse but also mental issues such as anxiety and depression. Therefore, the government can try to handle the issue by encouraging local communities to participate in periodic events where the whole community comes out and enjoys events such as food carnivals or sports events **with their family members**. By participating in such events, local communities are able to at least spend some time with their children every now and then. Besides, it is easier for other people to spot instances of abuse from those events, which makes spotting and reporting such incidents easier. So, Project "Time Well Spent" will be a long-term community-enforced event where families get to spend time with their children occasionally as a method of addressing abuse and neglect.

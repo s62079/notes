@@ -2,5 +2,9 @@
   "accentColor": "",
   "translucency": false,
   "nativeMenus": false,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "cssTheme": ""
 }

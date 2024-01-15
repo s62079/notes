@@ -1,0 +1,30 @@
+- social engineering
+- spoofing, for computer; impersonation, for human
+- hoax
+- phishing (email), vishing (call), whaling (rich ass)
+- URL hijacking - typo
+- spam and `spim`
+- shoulder surfing (peek), dumpster diving (dig)
+- tailgating - hitchhiking 
+- malware, code, virus, worm, adware, spyware, trojan horse, rootkit, logic bomb, botnet, ransomware
+- software attack, backdoor attack
+- password attack - guess, steal, dictionary, rainbow table (variation)
+- application attack - XSS, command injection, zero day, etc. 
+- port scanning
+- Eavesdroppping - monitor network
+- man in the middle
+- relay attacks
+- social network
+- evil twin
+- drive by download
+- clickjacking
+- password stealer
+- dos, DDOS
+- session hijacking
+- p2p attack
+- rogue access points
+- jamming
+- bluejacking - Bluetooth spam signal
+- Bluesnaring  - Bluetooth gain access
+- WEP, WPA attacks
+- hardware attacks

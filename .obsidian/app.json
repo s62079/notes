@@ -2,7 +2,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "attachments",
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
