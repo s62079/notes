@@ -2,10 +2,10 @@
 
 ## GARY LIM (S62079)
 
-![[20240123004411.png]]
+![](/attachments/20240123004411.png)
 
 enter username and password, then press login button, data will be saved on `SharedPreferences`
 
-![[20240123004422.png]]
+![](/attachments/20240123004422.png)
 
 sauce (spicy): https://github.com/58d66dc398/csm3123/tree/main/lab8
